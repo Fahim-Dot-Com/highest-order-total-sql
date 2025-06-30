@@ -33,6 +33,12 @@ customer_id
 -------------
 7
 ```
+## 📷 Preview
+![Screenshot_20250630_202038_Mimo](https://github.com/user-attachments/assets/b925e31a-76ad-4d6e-ac5c-9a2aca75a6e6)
+
+![Screenshot_20250630_204746_Mimo](https://github.com/user-attachments/assets/84ef152c-7c8f-4596-80dc-5e26c48cdeb8)
+
+
 ## 💁‍♀️ Check my other SQL projects!
 [StudentGradeCounter](https://github.com/Fahim-Dot-Com/StudentGradesDatabase)
 
